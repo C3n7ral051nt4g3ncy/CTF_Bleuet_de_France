@@ -64,7 +64,7 @@ bleuetdefrance{0283177}
 <p align="center"> <img width="133" src="https://user-images.githubusercontent.com/104733166/172059571-f566bd2c-d4ae-4946-b802-c30b51e690be.png">
 
 ```
-Méthodologie: Recherche Google: "bus rapatriés cerises de la liberté" --> la première photo sur laquelle on tombe dans Gogle Images a le numéro de Bus marqué dessus:
+Méthodologie: Recherche Google: "bus rapatriés cerises de la liberté" --> la première photo sur laquelle on tombe dans Google Images comporte bien le numéro de Bus marqué dessus:
 https://www.reseau-canope.fr/cnrd/selection/nojs/5484
   
 ```
