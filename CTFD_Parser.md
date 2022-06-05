@@ -2,7 +2,7 @@
 
 - Lors d'un CTF avec une forte affluence, il y a des fois quelques soucis avec la plateforme CTFd.
 - En début de CTF, il vous sera possible d'enregister tous les challs avec CTFD_Parser: https://github.com/p0dalirius/ctfd-parser crée par [@P0dalirius](https://twitter.com/podalirius_)
-- Vous pourrez continuer à bosser sur les Challs même si le CTF down.  
+- Vous pourrez continuer à bosser sur les Challs même si le CTF est "down".  
   
 # Installation
 ```
