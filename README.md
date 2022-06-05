@@ -1,4 +1,4 @@
-# CTF Bleuet de France
+# CTF Bleuet de France 2022
 
 Le **CTF (Capture The Flag) BLEUET DE FRANCE** by **AEGE** est le premier challenge historique et mémoriel. Il s'agit pour les challengers de résoudre des énigmes contenant des informations sur des personnes ou des faits durant la seconde guerre mondiale, appelées "flags". L'ensemble des réponses sont disponibles en sources ouvertes (**OSINT**).
 <br>
@@ -21,7 +21,7 @@ Le **CTF (Capture The Flag) BLEUET DE FRANCE** by **AEGE** est le premier challe
 - MINARM: https://www.defense.gouv.fr
 
 # Scoreboard:
-Je suis très heureux d'avoir décroché une 1ère Place🥇de ce CTF sous le pseudo **Le_Blaireau_des_Legendes**, ce fût une belle expèrience et je remercie du fond du coeur l'**AEGE**, l'**EGE**, **Steven DEFFOUS**, l'**ONACVG**, et le **Bleuet de France** d'avoir organisé et d"avoir apporté leur soutien à ce CTF historique.
+Je suis très heureux d'avoir décroché une 1ère Place🥇 lors de ce CTF, sous le pseudo **Le_Blaireau_des_Legendes**, ce fût une belle expèrience et je remercie du fond du coeur l'**AEGE**, l'**EGE**, **Steven DEFFOUS**, l'**ONACVG**, et le **Bleuet de France** d'avoir organisé et d"avoir apporté leur soutien à ce CTF historique.
   
 <img width="1276" src="https://user-images.githubusercontent.com/104733166/172054884-ca790878-309d-4367-8106-b87a3bb6f5f0.png">
 
